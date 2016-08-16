@@ -79,6 +79,23 @@ of those sections to manage the look and feel of the site. */
 }
 
 
+#contacticon1 {
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+#contacticon2 {
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+#contacticon3 {
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+
+
 #bg {
   position: fixed; 
   top: -50%; 
